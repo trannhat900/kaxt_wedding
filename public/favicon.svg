@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Wedding rings icon -->
+  <circle cx="35" cy="50" r="18" fill="none" stroke="#ef8499" stroke-width="4"/>
+  <circle cx="65" cy="50" r="18" fill="none" stroke="#ddd2b0" stroke-width="4"/>
+  <circle cx="35" cy="50" r="12" fill="#f9d5dd"/>
+  <circle cx="65" cy="50" r="12" fill="#ebe4d0"/>
+  
+  <!-- Heart decoration -->
+  <path d="M 50 35 Q 40 25 30 30 Q 25 35 30 40 L 50 55 L 70 40 Q 75 35 70 30 Q 60 25 50 35" 
+        fill="#ef8499" opacity="0.3"/>
+</svg>
